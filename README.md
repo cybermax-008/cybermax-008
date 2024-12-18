@@ -4,10 +4,8 @@ I have worked/explored in multiple domains (Cloud infra, IoT, Embedded systems, 
 ## 🚀 Currently exploring:
 - Backend development with Flask
 - PostgreSQL
-- Playing around LLM APIs to do fun projects!
-
-## 💻 Tech stack in progress:
-- PG, Flask, Claude API, Llamaindex
+- Building LLM based projects on general use-cases.
+- Predominantly leveraging Gemini capabilities ( Long context, context caching, etc)
 
 ## 🌱 Always learning, always growing
 I approach technology as a playground requiring constant adaptation and learning - to get equipped with tools/skills to build sustainable and painkiller solutions to the real-world problems.
