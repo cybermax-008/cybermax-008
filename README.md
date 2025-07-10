@@ -4,8 +4,8 @@ I’m a Senior Support Engineer at Aiven, where I focus on handling technical su
 Beyond support, I independently build internal AI-powered tools and apps to streamline our workflows. I drive the full product lifecycle: pinpointing pain points, defining requirements, designing user experiences, developing solutions (using Python, Gemini, Zendesk APIs, n8n, and LLM agentic orchestration), and iterating based on team feedback. I prioritize features based on real input to ensure the tools I build deliver practical value.
 
 ## 🚀 Currently exploring:
-- Context driven prompt engineering
-- n8n Ai workflows
+- Full stack dev in order to build apps on my own and also to understand AI generated code while build using Cursor or other LLM based platforms.
+-  Context driven prompt engineering
 - Building LLM based projects on general use-cases. Like AI KB assistants, RAG based Q/A bots, etc.)
 
 
